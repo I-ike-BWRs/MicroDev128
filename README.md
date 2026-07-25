@@ -1,4 +1,4 @@
-![Project Image](./Images/FINISHED.png)
+![Project Image](./Images/3D-Render.png)
 # MicroDev128-32P
 ## A high-power development/prototyping board with MVIO. 
 Based on the AVR128DB32. 

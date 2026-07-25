@@ -13,3 +13,5 @@ The MicroDev128-32P is open-source development board with a high-power voltage r
 - Built in TVS and 5A fuse
 - UPDI Header for easy programing
 
+## Vision
+To make a development board with more features, better power delivery and better price to performance than a Geniune Arduino Nano, but keep it the same size. 

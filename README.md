@@ -16,3 +16,6 @@ The MicroDev128-32P is open-source development board with a high-power voltage r
 
 ## Vision
 To make a development board with more features, better power delivery and better price to performance than a Geniune Arduino Nano, but keep it the same size. 
+
+## Next Steps
+I now need to get PCBs made, and do testing to make sure the power lines are clean and find any errors with the board. 

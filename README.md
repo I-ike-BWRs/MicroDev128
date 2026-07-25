@@ -1,3 +1,4 @@
+![Project Image](./Images/FINISHED.png)
 # MicroDev128-32P
 ## A high-power development/prototyping board with MVIO. 
 Based on the AVR128DB32. 
@@ -13,3 +14,12 @@ The MicroDev128-32P is open-source development board with a high-power voltage r
 - Built in TVS and 5A fuse
 - UPDI Header for easy programing
 
+## Vision
+To make a development board with more features, better power delivery and better price to performance than a Geniune Arduino Nano, but keep it the same size. 
+
+## Next Steps
+I now need to get PCBs made, and do testing to make sure the power lines are clean and find any errors with the board. 
+
+## Datasheets
+
+AVR128DB32 Datasheet -[Here](https://ww1.microchip.com/downloads/en/DeviceDoc/AVR128DB28-32-48-64-DataSheet-DS40002247A.pdf) 

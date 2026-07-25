@@ -26,7 +26,7 @@ AVR128DB32 Datasheet -[Here](https://ww1.microchip.com/downloads/en/DeviceDoc/AV
 LT8653S Datasheet -[Here](https://www.analog.com/media/en/technical-documentation/data-sheets/lt8653s.pdf)
 
 ## Images
-![Schematic](./Images/Schematic.png)
+![Schematic](./Images/Schmatic.png)
 ![PCB Layout](./Images/PCB.png)
 ![3D Render](./Images/3D-Render.png)
 

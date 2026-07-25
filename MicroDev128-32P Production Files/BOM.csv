@@ -1,0 +1,21 @@
+Designator,Value,Footprint,DNP,JLCPCB Part #
+"C1,C2,C3,C4",1uf,Capacitor_SMD:C_0603_1608Metric,,C1848
+C5,4.7uF,Capacitor_SMD:C_1206_3216Metric,,C1848
+C6,100uF,Capacitor_SMD:C_1206_3216Metric,,C15008
+C7,47uF,Capacitor_SMD:C_1206_3216Metric,,C96123
+C10,1uF,Capacitor_SMD:C_0603_1608Metric,,C1848
+"C11,C12",12pF,Capacitor_SMD:C_0402_1005Metric,,C1547
+D1,PWR,LED_SMD:LED_0603_1608Metric,,C2286
+D2,L,LED_SMD:LED_0603_1608Metric,,C2286
+D3,SMAJ36CA,Diode_SMD:D_SMA,,C19077551
+F1,5A,Fuse:Fuse_0603_1608Metric,,C21261114
+J1,UPDI Header,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,1,
+J3,GPIO,Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical,1,
+J4,PWR and ANALOG,Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical,1,
+"L1,L2",2.2uH,Inductor_SMD:L_Taiyo-Yuden_NR-40xx,,C438930
+"R2,R3,R4",330,Resistor_SMD:R_0402_1005Metric,,C25104
+SW1,SW_SP3T,Button_Switch_SMD:SW_SP3T_PCM13,1,
+SW2,RST,Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS,1,
+U1,AVR128DB32x-xRXB,Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm,,C3225665
+U2,LT8653SEV_PBF,Package_DFN_QFN:QFN-20-1EP_3x4mm_P0.5mm_EP1.65x2.65mm,,C674147
+Y1,24MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,,C13738

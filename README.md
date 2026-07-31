@@ -35,7 +35,7 @@ LT8653S Datasheet -[Here](https://www.analog.com/media/en/technical-documentatio
 
 To view the Schematics you can go into the Kicad files folder. All files were made on KiCad 10.04 and should import without other dependencies. 
 
-## *⚠️ Hardware is currently untested: Order at you own risk!*
+## ***⚠️ Hardware is currently untested: Order at you own risk!***
 
 
 To order your own you have a few ways:
@@ -45,7 +45,7 @@ To order your own you have a few ways:
 *You will need a hotplate for solder reflow and solder paste. May be cheaper but harder to do!*
 
 Upload the Gebers at:
-/Production Files
+/MicroDev128-32P Production Files
    /Gebers.zip
 Go to your favorite PCB manufacturer and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The default settings will be fine.
 
@@ -55,8 +55,11 @@ To lay out components once they turn up you can use the KiCad PCB layout. A dedi
 **2. Use a PCBA service and get them shipped assembled**
 
 Upload the Gebers at:
+
 /Production Files
+
    /Gebers.zip
+   
 Go to your favorite PCB manufacturer and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The default settings will be fine.
 Then upload the BOM.csv and CPL.csv to the page. Then check if they in stock. (You may need to pre-order some parts!)
 The check component orientation - it has a tendency to flip the LT8653S by 90 degrees. 

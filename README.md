@@ -1,4 +1,4 @@
-## THANK YOU TO PCBway for sponsering this project! To see more look up the "Sponsership Section"
+# *Thank You to PCBway for sponsoring this project! To see more look up the "Sponsorship Section"*
 
 ![Project Image](./Images/3D-Render.png)
 # MicroDev128-32P

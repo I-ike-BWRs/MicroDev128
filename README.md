@@ -1,3 +1,5 @@
+## THANK YOU TO PCBway for sponsering this project! To see more look up the "Sponsership Section"
+
 ![Project Image](./Images/3D-Render.png)
 # MicroDev128-32P
 ## A high-power development/prototyping board with MVIO. 
@@ -31,12 +33,17 @@ LT8653S Datasheet -[Here](https://www.analog.com/media/en/technical-documentatio
 ![PCB Layout](./Images/PCB.png)
 ![3D Render](./Images/3D-Render.png)
 
+## Sponsorship
+![PCBway Logo](./Images/PCBway.svg)
+PCBWay is a professional manufacturing service that offers PCB fabrication, PCB assembly, CNC machining, sheet metal fabrication, injection molding, and high-quality 3D printing services. They support a wide range of materials, including stainless steel, aluminum, titanium, and engineering plastics, making them suitable for prototype and production projects.
+
 ## Schematics 
 
 To view the Schematics you can go into the Kicad files folder. All files were made on KiCad 10.04 and should import without other dependencies. 
 
 ## ***⚠️ Hardware is currently untested: Order at you own risk!***
 
+## Ordering
 
 To order your own you have a few ways:
 
@@ -47,7 +54,7 @@ To order your own you have a few ways:
 Upload the Gebers at:
 /MicroDev128-32P Production Files
    /Gebers.zip
-Go to your favorite PCB manufacturer and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The default settings will be fine.
+Go to your PCBway and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The default settings will be fine.
 
 Next in the same folder find the BOM.csv and order the parts from your favorite part distributor. 
 To lay out components once they turn up you can use the KiCad PCB layout. A dedicated image for this step will come later.

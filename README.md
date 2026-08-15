@@ -1,9 +1,10 @@
-# *Thank You to PCBway for sponsoring this project! To see more look up the "Sponsorship Section"*
 
 ![Project Image](./Images/3D-Render.png)
 # MicroDev128-32P
 ## A high-power development/prototyping board with MVIO. 
 Based on the AVR128DB32. 
+
+### *Thank You to PCBway for sponsoring this project! To see more look up the "Sponsorship Section"*
 
 
 The MicroDev128-32P is open-source development board with a high-power voltage regulator with up to 2A continous, Multi-voltage IO - which allows PortC to run on a different voltage than the rest of the board - elimenating the need for voltage level shifters. 
@@ -28,6 +29,11 @@ AVR128DB32 Datasheet -[Here](https://ww1.microchip.com/downloads/en/DeviceDoc/AV
 
 LT8653S Datasheet -[Here](https://www.analog.com/media/en/technical-documentation/data-sheets/lt8653s.pdf)
 
+## Documentation
+
+For Documentation see the MicroDev128 Docs repository. 
+![Link to Documents](https://github.com/ILikeBWRs/MicroDev128-Documentation)
+
 ## Images
 ![Schematic](./Images/Schmatic.png)
 ![PCB Layout](./Images/PCB.png)
@@ -36,6 +42,12 @@ LT8653S Datasheet -[Here](https://www.analog.com/media/en/technical-documentatio
 ## Sponsorship
 ![PCBway Logo](./Images/PCBway.svg)
 PCBWay is a professional manufacturing service that offers PCB fabrication, PCB assembly, CNC machining, sheet metal fabrication, injection molding, and high-quality 3D printing services. They support a wide range of materials, including stainless steel, aluminum, titanium, and engineering plastics, making them suitable for prototype and production projects.
+![Samples Companys](./Images/Samples.png)
+A big thank you to the sample programs of the following manufactures:
+ - Microchip Technology
+ - Analog Devices
+ - Coilcraft
+
 
 ## Schematics 
 

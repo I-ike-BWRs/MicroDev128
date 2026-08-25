@@ -1,13 +1,14 @@
+### *Thank You to PCBway for sponsoring this project! To see more look up the "Sponsorship Section"*
+
+---
 
 ![Project Image](./Images/3D-Render.png)
 # MicroDev128-32P
 ## A high-power development/prototyping board with MVIO. 
+
 Based on the AVR128DB32. 
 
-### *Thank You to PCBway for sponsoring this project! To see more look up the "Sponsorship Section"*
-
-
-The MicroDev128-32P is open-source development board with a high-power voltage regulator with up to 2A continous, Multi-voltage IO - which allows PortC to run on a different voltage than the rest of the board - elimenating the need for voltage level shifters. 
+The MicroDev128-32P is open-source development board with a high-power voltage regulator with up to 2A continous, Multi-voltage IO - which allows PortC to run on a different voltage than the rest of the board - elimenating the need for voltage level shifters. The MicroDev128-32P aims to be better price to performance ratio than a tradition Arduino Nano. To view the Schematics you can go into the Kicad files folder. All files were made on KiCad 10.04 and should import without other dependencies. The 3D models are all included in the folder. 
 
 **Key Specifications:**
 - Up to 2A continuos on both power lines, 3.3v and 5v with up to 42VDC input
@@ -17,41 +18,35 @@ The MicroDev128-32P is open-source development board with a high-power voltage r
 - Built in TVS and 5A fuse
 - UPDI Header for easy programing
 
-## Vision
-To make a development board with more features, better power delivery and better price to performance than a Geniune Arduino Nano, but keep it the same size. 
-
-## Next Steps
-I now need to get PCBs made, and do testing to make sure the power lines are clean and find any errors with the board. 
-
-## Datasheets
-
-AVR128DB32 Datasheet -[Here](https://ww1.microchip.com/downloads/en/DeviceDoc/AVR128DB28-32-48-64-DataSheet-DS40002247A.pdf) 
-
-LT8653S Datasheet -[Here](https://www.analog.com/media/en/technical-documentation/data-sheets/lt8653s.pdf)
 
 ## Documentation
 
 For Documentation see the MicroDev128 Docs repository. 
 ![Link to Documents](https://github.com/ILikeBWRs/MicroDev128-Documentation)
 
+---
+
 ## Images
 ![Schematic](./Images/Schmatic.png)
 ![PCB Layout](./Images/PCB.png)
 ![3D Render](./Images/3D-Render.png)
 
+---
+
 ## Sponsorship
 ![PCBway Logo](./Images/PCBway.svg)
 PCBWay is a professional manufacturing service that offers PCB fabrication, PCB assembly, CNC machining, sheet metal fabrication, injection molding, and high-quality 3D printing services. They support a wide range of materials, including stainless steel, aluminum, titanium, and engineering plastics, making them suitable for prototype and production projects.
+For my project they gave me five indivdual PCBs of outstanding surface quality. They surface was flat and smooth - with a perfect ENIG coating - with the corners rounded and deburred. The end application of this project is a Microcontroller board, suitable to be used in many situations. To see how easy there ordering procsess is go to the ordering section. 
+
+#Samples
 ![Samples Companys](./Images/Samples.png)
+
 A big thank you to the sample programs of the following manufactures:
  - Microchip Technology
  - Analog Devices
  - Coilcraft
 
-
-## Schematics 
-
-To view the Schematics you can go into the Kicad files folder. All files were made on KiCad 10.04 and should import without other dependencies. 
+---
 
 ## ***⚠️ Hardware is currently untested: Order at you own risk!***
 
@@ -59,7 +54,7 @@ To view the Schematics you can go into the Kicad files folder. All files were ma
 
 To order your own you have a few ways:
 
-**1. Order PCBs and assemble them yourselfs**
+**1. Order PCBs and assemble them yourself**
 
 *You will need a hotplate for solder reflow and solder paste. May be cheaper but harder to do!*
 

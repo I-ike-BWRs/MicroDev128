@@ -22,7 +22,7 @@ The MicroDev128-32P is open-source development board with a high-power voltage r
 ## Documentation
 
 For Documentation see the MicroDev128 Docs repository. 
-![Link to Documents](https://github.com/ILikeBWRs/MicroDev128-Documentation)
+[Link to Documents](https://github.com/ILikeBWRs/MicroDev128-Documentation)
 
 ---
 
@@ -35,7 +35,7 @@ For Documentation see the MicroDev128 Docs repository.
 
 ## Sponsorship
 ![PCBway Logo](./Images/PCBway.svg)
-PCBWay is a professional manufacturing service that offers PCB fabrication, PCB assembly, CNC machining, sheet metal fabrication, injection molding, and high-quality 3D printing services. They support a wide range of materials, including stainless steel, aluminum, titanium, and engineering plastics, making them suitable for prototype and production projects.
+[PCBWay](https://pcbway.com) is a professional manufacturing service that offers PCB fabrication, PCB assembly, CNC machining, sheet metal fabrication, injection molding, and high-quality 3D printing services. They support a wide range of materials, including stainless steel, aluminum, titanium, and engineering plastics, making them suitable for prototype and production projects.
 For my project they gave me five indivdual PCBs of outstanding surface quality. They surface was flat and smooth - with a perfect ENIG coating - with the corners rounded and deburred. The end application of this project is a Microcontroller board, suitable to be used in many situations. To see how easy there ordering procsess is go to the ordering section. 
 
 ## Samples

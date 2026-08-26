@@ -36,7 +36,9 @@ For Documentation see the MicroDev128 Docs repository.
 ## Sponsorship
 ![PCBway Logo](./Images/PCBway.svg)
 [PCBWay](https://pcbway.com) is a professional manufacturing service that offers PCB fabrication, PCB assembly, CNC machining, sheet metal fabrication, injection molding, and high-quality 3D printing services. They support a wide range of materials, including stainless steel, aluminum, titanium, and engineering plastics, making them suitable for prototype and production projects.
-For my project they gave me five indivdual PCBs of outstanding surface quality. They surface was flat and smooth - with a perfect ENIG coating - with the corners rounded and deburred. The end application of this project is a Microcontroller board, suitable to be used in many situations. To see how easy there ordering procsess is go to the ordering section. 
+For my project they gave me five indivdual PCBs of outstanding surface quality. They surface was flat and smooth - with a perfect ENIG coating - with the corners rounded and deburred. The end application of this project is a Microcontroller board, suitable to be used in many situations. To see how easy their ordering procsess is go to the ordering section. 
+
+![PCB](./Images/20260819_203548.jpg)
 
 ## Samples
 
@@ -62,12 +64,12 @@ To order your own you have a few ways:
 Upload the Gebers at:
 /MicroDev128-32P Production Files
    /Gebers.zip
-Go to your PCBway and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The default settings will be fine.
+Go to PCBway's online ordering page and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The rest of the default settings will be fine. Hit order or add stencil if you need one. It's that easy!
 
 Next in the same folder find the BOM.csv and order the parts from your favorite part distributor. 
 To lay out components once they turn up you can use the KiCad PCB layout. A dedicated image for this step will come later.
 
-**2. Use a PCBA service and get them shipped assembled**
+**2. Use PCBWays PCBA service and get them shipped assembled**
 
 Upload the Gebers at:
 
@@ -78,6 +80,6 @@ Upload the Gebers at:
 Go to your PCB and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The default settings will be fine.
 Then upload the BOM.csv and CPL.csv to the page. Then check if they in stock. (You may need to pre-order some parts!)
 The check component orientation - it has a tendency to flip the LT8653S by 90 degrees. 
-
+Then pay and let PCBWays professional automated factory ship them fully assembled, right to your door!
 
 ## For more check out my stardance project page: -[Stardance Hackclub](https://stardance.hackclub.com/projects/6131)

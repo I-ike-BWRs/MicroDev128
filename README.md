@@ -69,7 +69,7 @@ Go to PCBway's online ordering page and upload the gebers. Make sure it says 4-l
 Next in the same folder find the BOM.csv and order the parts from your favorite part distributor. 
 To lay out components once they turn up you can use the KiCad PCB layout. A dedicated image for this step will come later.
 
-**2. Use PCBWays PCBA service and get them shipped assembled**
+**2. Use PCBWay's PCBA service and get them shipped assembled**
 
 Upload the Gebers at:
 

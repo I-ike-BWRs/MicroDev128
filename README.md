@@ -64,7 +64,7 @@ To order your own you have a few ways:
 Upload the Gebers at:
 /MicroDev128-32P Production Files
    /Gebers.zip
-Go to PCBway's online ordering page and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The rest of the default settings will be fine. Hit order or add stencil if you need one. It's that easy!
+Go to PCBWay's online ordering page and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The rest of the default settings will be fine. Hit order or add stencil if you need one. It's that easy!
 
 Next in the same folder find the BOM.csv and order the parts from your favorite part distributor. 
 To lay out components once they turn up you can use the KiCad PCB layout. A dedicated image for this step will come later.

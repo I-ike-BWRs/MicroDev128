@@ -1,4 +1,4 @@
-### *Thank You to PCBway for sponsoring this project! To see more look up the "Sponsorship Section"*
+### *Thank You to PCBWay for sponsoring this project! To see more look up the "Sponsorship Section"*
 
 ---
 

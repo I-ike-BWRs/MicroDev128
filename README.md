@@ -80,6 +80,6 @@ Upload the Gebers at:
 Go to your PCB and upload the gebers. Make sure it says 4-layers. Set it to ENIG, and set the solder mask to any colour you want. The default settings will be fine.
 Then upload the BOM.csv and CPL.csv to the page. Then check if they in stock. (You may need to pre-order some parts!)
 The check component orientation - it has a tendency to flip the LT8653S by 90 degrees. 
-Then pay and let PCBWays professional automated factory ship them fully assembled, right to your door!
+Then pay and let PCBWay's professional automated factory ship them fully assembled, right to your door!
 
 ## For more check out my stardance project page: -[Stardance Hackclub](https://stardance.hackclub.com/projects/6131)

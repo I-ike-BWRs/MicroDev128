@@ -48,7 +48,7 @@ A big thank you to the sample programs of the following manufactures:
  - Microchip Technology
  - Analog Devices
  - Coilcraft
- - Würth Elektronic
+ - Würth Elektronik
 
 ---
 

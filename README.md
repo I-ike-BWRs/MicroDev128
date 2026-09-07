@@ -2,7 +2,7 @@
 
 ---
 
-![Project Image](./Assets/VS.png)
+![Project Image](./Assets/VS.jpg)
 # MicroDev128-32P
 ## A high-power development/prototyping board with MVIO. 
 
